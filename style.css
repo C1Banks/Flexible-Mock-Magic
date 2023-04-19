@@ -107,5 +107,14 @@ footer
         padding: 1rem;
         background-color: #59D9A1;
     }
+.image-container:nth-child(2){
+    flex-grow: 1;
+}
+.image-container:nth-child(5){
+    flex-grow: 1;
+}
+.image-container:nth-child(8){
+    flex-grow: 1;
+}
 
 /* CODE YOUR FLEXBOXES HERE */
